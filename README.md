@@ -1,4 +1,4 @@
-# PDF Text and Image Extractor
+# PDF Text and Image Extractor (Testing)
 
 This Python script processes a PDF file by extracting text and saving each page as an image. For every page in the PDF, the script:
 
